@@ -1,0 +1,5 @@
+- The following files were written and added to a premade pygame project 
+  which had a functional k-puzzle game with everything except for the AI.
+
+- The goal was to write some AIs to solve the randomly generated k-puzzle game 
+  based on some of the common pathfinding algorithms: BFS, BestFirst and A*.
