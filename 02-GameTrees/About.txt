@@ -1,0 +1,9 @@
+- The following file was written and added to a premade pygame project 
+  which had a functional connect4 game but no AI.
+
+- The goal was to write some AIs based on game trees 
+  and to let them play the game against each other.
+  Algorithms used were NegaScout and Minimax with alpha-beta prunning. 
+
+- Afterwards, I personalized the game for a friend 
+  who used to play connect4 during classes in school.
