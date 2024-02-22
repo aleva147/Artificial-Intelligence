@@ -9,6 +9,7 @@ https://github.com/aleva147/Artificial-Intelligence/assets/145105813/0d958bfe-d5
   based on some of the common pathfinding algorithms: BFS, BestFirst and A*. <br/>
 
 <br/>
+<br/>
  
 02-GameTrees:
 
